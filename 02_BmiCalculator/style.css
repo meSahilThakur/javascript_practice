@@ -1,0 +1,13 @@
+html{
+    background-color: gray;
+}
+.container{
+    margin: auto;
+    text-align: center;
+}
+
+#results{
+    margin-top: 10px;
+    color: white;
+    font-size: 2rem;
+}
