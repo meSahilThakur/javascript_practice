@@ -1,0 +1,28 @@
+body{
+    background-color: gray;
+    text-align: center;
+    color: #fff;
+    margin: 0;
+}
+.container{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    background-color: gray;
+    justify-content: center;
+    align-items: center;
+}
+
+.color{
+    background-color: green;
+}
+tr{
+    background-color: rebeccapurple;
+}
+th{
+    background-color: rgb(73, 43, 105);
+    padding: .5rem;
+}
+td{
+    padding: 1rem;
+}
